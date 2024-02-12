@@ -1,0 +1,21 @@
+.outer-list{
+    display: flex;
+    justify-content: center;
+}
+
+.Todo-List{
+    border: 2px solid rgb(225, 225, 228);
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+    width:800px;
+}
+
+.Todo-List button{
+    float: left;
+    width: 100px;
+}
+
+.Todo-List div{
+    margin: 5px 0px;
+}

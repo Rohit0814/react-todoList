@@ -1,0 +1,17 @@
+.input-view{
+    max-width:60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-view .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-view button{
+    width: 100px;
+    float: left;
+}
